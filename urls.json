@@ -1,0 +1,35 @@
+{
+    "cdn.discordapp": {
+        "state": 1
+    },
+    "discord": {
+        "state": 1
+    },
+    "gofund": {
+        "state": 3
+    },
+    "gofundme": {
+        "state": 3
+    },
+    "grabify": {
+        "state": 2
+    },
+    "media.discordapp": {
+        "state": 1
+    },
+    "stackoverflow": {
+        "state": 1
+    },
+    "support.cancer": {
+        "state": 3
+    },
+    "tenor": {
+        "state": 1
+    },
+    "youtu": {
+        "state": 1
+    },
+    "youtube": {
+        "state": 1
+    }
+}
